@@ -1,0 +1,40 @@
+body{
+    font-family:'courior new',courier,monospace;
+    margin: ;
+}
+
+section{
+   text-align:center;  
+}
+
+hr{
+    border:7px #077A7D solid;
+}
+
+img{
+    border-radius: 15px;
+    box-shadow: 2px 2px 30px #077A7D;
+}
+
+img:hover{
+    transform: scale(2);
+}
+
+.nome{
+    text-decoration: underline;
+    background-color:#ADEED9;
+}
+
+h2{
+    text-align:center;  
+}
+
+.esquerda{
+    text-align: center;
+    box-shadow: 0px 0px 10px red;
+    width: 3%;
+    margin-left: auto;
+
+}
+
+
